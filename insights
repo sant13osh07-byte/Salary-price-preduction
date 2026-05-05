@@ -1,0 +1,39 @@
+I analyzed my own Instagram data… and the results were surprising 👀
+
+Out of 540 people I follow, 108 don’t follow me back.
+
+That’s ~20% 😅
+
+So I built a full **Instagram Analytics Dashboard using Power BI** to understand what’s really going on behind the numbers.
+
+📊 What I built:
+• Followers vs Following analysis
+• Not-following-back detection
+• Engagement trends (likes vs comments)
+• Story & activity tracking
+• Monthly growth insights
+
+📈 Key Insights:
+• 84% follow-back rate
+• Engagement peaked in Jan 2026
+• Growth slowed after mid-2025
+• 100+ accounts don’t follow back
+
+🛠 Behind the scenes:
+• Cleaned raw JSON data using Power Query
+• Converted UNIX timestamps to readable dates
+• Built a proper Date Table
+• Created relationships (1:M model)
+• Designed interactive visuals in Power BI
+
+💡 Biggest learning:
+Data is messy… but insights are powerful when you structure it right.
+
+This project helped me understand:
+→ Data cleaning
+→ Data modeling
+→ Dashboard storytelling
+
+Would you unfollow people who don’t follow you back? 🤔
+
+#PowerBI #DataAnalytics #Dashboard #DataVisualization #Projects #Learning #SQL #BusinessIntelligence
